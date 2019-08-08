@@ -1,0 +1,68 @@
+.body {
+    margin: 20px
+}
+
+.box1 {
+    border-style: solid;
+    width: 100%;
+    height: 200px;
+}
+
+.purple {
+    width: 40px;
+    height: 140px;
+    background-color: rgb(129, 45, 129);
+    margin-top: 5vh;
+    margin-left: 1vh;
+    display: inline-block;
+}
+
+.green {
+    height: 180px;
+    width: 400px;
+    background-color: green;
+    margin-left: 5vh;
+    display: inline-block
+}
+
+.blue {
+    background-color: rgb(127, 200, 224);
+    border-radius: 18vh;
+    width: 18vh;
+    height: 18vh;
+    display: inline-block;
+    margin-left: 5vh
+}
+.box2 {
+    border-style: dotted;
+    width: 100%;
+    height: 200px;
+    margin-top: 3vh;
+}
+
+.yellow {
+    height: 140px;
+    width: 90%;
+    background-color: rgb(230, 230, 127);
+    margin-top: 3vh;
+    margin-left: 5vh;
+    box-shadow: 10px 9px 5px 2px rgba(0,0,0,0.75);
+
+}
+
+.box3 {
+    box-shadow: 10px 10px 7px -7px rgba(0,0,0,0.75);
+    border-style: ridge;
+    width: 50%;
+    margin: auto;
+    margin-top: 3vh;
+    height: 300px
+}
+
+.note {
+    height: 100px;
+    width: 170px;
+    margin: auto;
+    font-size: 40px;
+    margin-top: 15%;
+}
